@@ -12,10 +12,11 @@ pop.size <- 50
 #lb <- rep(-5.12,dim)
 #ub <- rep(5.12,dim)
 funcs <- c(Rosenbrock,Griewank,Ackley,Schwefel, Alpine)
-bounds <- matrix(rep(NA,2*length(func)), nrow = 2)
-res <- matrix(rep(NA,3*length(func)),nrow = 3)
+bounds <- matrix(rep(NA,2*length(funcs)), nrow = 2)
+res <- matrix(rep(NA,3*length(funcs)),nrow = 3)
 bounds[1,] <- c(-5,-600,-32,-500,0)
 bounds[2,] <- c(10,600,32,500,10)
+dim <- 10
 execs <- 30
 
 result <-  vector("list",execs)
