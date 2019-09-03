@@ -41,6 +41,4 @@ for(f in 1:length(funcs)){
    #j = j + 1
 }
 View(res)
-#cat("best = ", min(best), "\n")
-#cat("mean = ", mean(best), "\n")
-#cat("std.dev = ",sd(best), "\n")
+
