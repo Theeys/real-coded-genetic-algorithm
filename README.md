@@ -8,7 +8,7 @@ Cortes, O. A. C and Silva, J., "Unconstrained numerical optimization using real-
 
 Or use the following code in your bibtex:
 
-@article{Cortes2019, 
+@article{Cortes2019, <br />
   title={Unconstrained numerical optimization using real-coded genetic algorithms: a study case using benchmark functions in R from Scratch}, <br />
   volume={11}, <br />
   url={http://seer.upf.br/index.php/rbca/article/view/9047}, <br />
