@@ -9,7 +9,7 @@ Cortes, O. A. C and Silva, J., "Unconstrained numerical optimization using real-
 Or use the following code in your bibtex:
 
 @article{Cortes2019, 
-  title={Unconstrained numerical optimization using real-coded genetic algorithms: a study case using benchmark functions in R from Scratch}, 
+  title={Unconstrained numerical optimization using real-coded genetic algorithms: a study case using benchmark functions in R from Scratch}, `/p`
   volume={11}, 
   url={http://seer.upf.br/index.php/rbca/article/view/9047}, 
   DOI={10.5335/rbca.v11i3.9047}, 
