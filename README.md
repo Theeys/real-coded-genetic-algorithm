@@ -9,14 +9,14 @@ Cortes, O. A. C and Silva, J., "Unconstrained numerical optimization using real-
 Or use the following code in your bibtex:
 
 @article{Cortes2019, 
-  title={Unconstrained numerical optimization using real-coded genetic algorithms: a study case using benchmark functions in R from Scratch}, </p>
-  volume={11}, 
-  url={http://seer.upf.br/index.php/rbca/article/view/9047}, 
-  DOI={10.5335/rbca.v11i3.9047}, 
-  number={3}, 
-  journal={Revista Brasileira de Computação Aplicada}, 
-  author={Cortes, O. A. C. and Silva, J.}, 
-  year={2019}, 
-  month={set.}, 
-  pages={1--11}
+  title={Unconstrained numerical optimization using real-coded genetic algorithms: a study case using benchmark functions in R from Scratch}, <br />
+  volume={11}, <br />
+  url={http://seer.upf.br/index.php/rbca/article/view/9047}, <br />
+  DOI={10.5335/rbca.v11i3.9047}, <br />
+  number={3}, <br />
+  journal={Revista Brasileira de Computação Aplicada}, <br />
+  author={Cortes, O. A. C. and Silva, J.}, <br />
+  year={2019}, <br />
+  month={set.}, <br />
+  pages={1--11}<br />
 }
