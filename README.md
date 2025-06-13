@@ -2,6 +2,8 @@
 
 The purpose of this code is to show how real-coded genetic algorithms can be implemented in R from scratch. The code provides two selection methods, four crossover methods, and two mutations.
 
+This repository now also includes a simple implementation of the **Glowworm Swarm Optimization** algorithm in `glowworm.R` for multimodal optimization tasks.
+
 If you use it, please refer to the paper:
 
 Cortes, O. A. C and Silva, J., "Unconstrained numerical optimization using real-coded genetic algorithms: a study case using benchmark functions in R from Scratch", RBCA, vol. 11, nº 3, p. 1-11, set. 2019.
